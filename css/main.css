@@ -267,7 +267,7 @@ nav .navigation li a:hover{
 }
 
 .row .col50 p{
-    text-align: justify;
+    text-align: left;
     margin-top: 10px;
     margin-left: 20%;
     font-size: 2em;
@@ -304,7 +304,7 @@ nav .navigation li a:hover{
 }
 
 .row2 .col50 p{
-    text-align: justify;
+    text-align: left;
     margin-top: 10px;
     margin-left: 20%;
     font-size: 1.5em;

@@ -592,6 +592,7 @@ nav .navigation li a:hover{
         width:100% ;
         height: auto;
         margin-top: 10px 0;
+	align-items: center;
     }
     .row2{
 	flex-direction: column;
@@ -610,6 +611,7 @@ nav .navigation li a:hover{
 	width:100% ;
 	height: auto;
 	margin-top: 10px 0;
+	align-items: center;
     }	
     section{
         padding:100px 50px 100px 50px;
